@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:145.0) Gecko/20100101 Firefox/145.0">
-  <diagram name="Page-1" id="qPZdYIKb3jQd5Gapjh99">
-    <mxGraphModel dx="1734" dy="989" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="light-dark(#FFFFFF,#FFFFFF)" math="0" shadow="0">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:145.0) Gecko/20100101 Firefox/145.0" pages="2">
+  <diagram name="CS" id="qPZdYIKb3jQd5Gapjh99">
+    <mxGraphModel dx="1734" dy="989" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="light-dark(#FFFFFF,#FFF2CC)" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -45,6 +45,35 @@
             <mxPoint x="-65" y="116" as="sourcePoint" />
             <mxPoint x="-24" y="118" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="L8S0gf-0DQ9822DG12Xw" name="Education">
+    <mxGraphModel dx="934" dy="589" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="light-dark(#FFFFFF,#D5E8D4)" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2x71qDnFbdDbp_tj9GGc-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FFFFFF);fillStyle=solid;fontColor=light-dark(#000000,#000000);strokeColor=light-dark(#000000,#000000);" value="&lt;div&gt;Wirtschaftfachwirt&lt;/div&gt;&lt;div&gt;(BUSINESS)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="57" y="62" as="geometry" />
+        </mxCell>
+        <mxCell id="2x71qDnFbdDbp_tj9GGc-2" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FFFFFF);fillStyle=solid;fontColor=light-dark(#000000,#000000);strokeColor=light-dark(#000000,#000000);" value="&lt;div&gt;Betriebswirt&lt;/div&gt;&lt;div&gt;(BUSINESS)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="243" y="62" as="geometry" />
+        </mxCell>
+        <mxCell id="2x71qDnFbdDbp_tj9GGc-3" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FFFFFF);fillStyle=solid;fontColor=light-dark(#000000,#000000);strokeColor=light-dark(#000000,#000000);" value="&lt;div&gt;Bachelor of Arts&lt;/div&gt;&lt;div&gt;(BUSINESS)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="429" y="62" as="geometry" />
+        </mxCell>
+        <mxCell id="2x71qDnFbdDbp_tj9GGc-4" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FFFFFF);fillStyle=solid;fontColor=light-dark(#000000,#000000);strokeColor=light-dark(#000000,#000000);" value="&lt;div&gt;Master of Science&lt;/div&gt;&lt;div&gt;- ENGINEERING&lt;/div&gt;&lt;div&gt;- Business I&lt;/div&gt;" vertex="1">
+          <mxGeometry height="94" width="145" x="559" y="192" as="geometry" />
+        </mxCell>
+        <mxCell id="2x71qDnFbdDbp_tj9GGc-5" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FFFFFF);fillStyle=solid;fontColor=light-dark(#000000,#000000);strokeColor=light-dark(#000000,#000000);" value="&lt;div&gt;Six Sigma White&lt;/div&gt;&lt;div&gt;(QUALITY)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="55" y="312" as="geometry" />
+        </mxCell>
+        <mxCell id="2x71qDnFbdDbp_tj9GGc-8" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FFFFFF);fillStyle=solid;fontColor=light-dark(#000000,#000000);strokeColor=light-dark(#000000,#000000);" value="&lt;div&gt;Six Sigma Yellow&lt;/div&gt;&lt;div&gt;(QUALITY)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="219" y="315" as="geometry" />
+        </mxCell>
+        <mxCell id="2x71qDnFbdDbp_tj9GGc-9" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FFFFFF);fillStyle=solid;fontColor=light-dark(#000000,#000000);strokeColor=light-dark(#000000,#000000);" value="&lt;div&gt;Six Sigma Green&lt;/div&gt;&lt;div&gt;(QUALITY)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="402" y="315" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
