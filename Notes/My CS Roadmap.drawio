@@ -46,7 +46,7 @@
             <mxPoint x="-24" y="118" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="G5sA1A1lIbKEGnFMpnwV-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div align=&quot;center&quot;&gt;&lt;b&gt;Goal&lt;/b&gt;:&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- Get better at problem solving&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- better logical thinking&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- be proficient at Python and SQL&lt;/div&gt;" vertex="1">
+        <mxCell id="G5sA1A1lIbKEGnFMpnwV-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div align=&quot;center&quot;&gt;&lt;b&gt;Goal&lt;/b&gt;:&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- Get better at problem solving&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- Get better logical thinking&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- be proficient at Python and SQL&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="186" x="-658" y="90" as="geometry" />
         </mxCell>
       </root>
