@@ -54,16 +54,16 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="2x71qDnFbdDbp_tj9GGc-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#00FF00);fillStyle=solid;fontColor=light-dark(#000000,#000000);strokeColor=light-dark(#000000,#000000);" value="&lt;div&gt;Wirtschaftfachwirt&lt;/div&gt;&lt;div&gt;(BUSINESS)&lt;/div&gt;" vertex="1">
+        <mxCell id="2x71qDnFbdDbp_tj9GGc-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#00FF00);fillStyle=solid;fontColor=light-dark(#000000,#000000);strokeColor=light-dark(#000000,#000000);" value="&lt;div&gt;&lt;b&gt;Wirtschaftfachwirt&lt;/b&gt;&lt;/div&gt;&lt;div&gt;(BUSINESS)&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="120" x="57" y="62" as="geometry" />
         </mxCell>
-        <mxCell id="2x71qDnFbdDbp_tj9GGc-2" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF, #00f900);fillStyle=solid;fontColor=light-dark(#000000,#000000);strokeColor=light-dark(#000000,#000000);" value="&lt;div&gt;Betriebswirt&lt;/div&gt;&lt;div&gt;(BUSINESS)&lt;/div&gt;" vertex="1">
+        <mxCell id="2x71qDnFbdDbp_tj9GGc-2" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF, #00f900);fillStyle=solid;fontColor=light-dark(#000000,#000000);strokeColor=light-dark(#000000,#000000);" value="&lt;div&gt;&lt;b&gt;Betriebswirt&lt;/b&gt;&lt;/div&gt;&lt;div&gt;(BUSINESS)&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="120" x="243" y="62" as="geometry" />
         </mxCell>
-        <mxCell id="2x71qDnFbdDbp_tj9GGc-3" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FFFF00);fillStyle=solid;fontColor=light-dark(#000000,#000000);strokeColor=light-dark(#000000,#000000);" value="&lt;div&gt;Bachelor of Arts&lt;/div&gt;&lt;div&gt;(BUSINESS)&lt;/div&gt;" vertex="1">
+        <mxCell id="2x71qDnFbdDbp_tj9GGc-3" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FFFF00);fillStyle=solid;fontColor=light-dark(#000000,#000000);strokeColor=light-dark(#000000,#000000);" value="&lt;div&gt;&lt;b&gt;Bachelor of Arts&lt;/b&gt;&lt;/div&gt;&lt;div&gt;(BUSINESS)&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="120" x="429" y="62" as="geometry" />
         </mxCell>
-        <mxCell id="2x71qDnFbdDbp_tj9GGc-4" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FFFFFF);fillStyle=solid;fontColor=light-dark(#000000,#000000);strokeColor=light-dark(#000000,#000000);" value="&lt;div&gt;Master of Science&lt;/div&gt;&lt;div&gt;- ENGINEERING&lt;/div&gt;&lt;div&gt;- Business IT&lt;/div&gt;" vertex="1">
+        <mxCell id="2x71qDnFbdDbp_tj9GGc-4" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FFFFFF);fillStyle=solid;fontColor=light-dark(#000000,#000000);strokeColor=light-dark(#000000,#000000);" value="&lt;div&gt;&lt;b&gt;Master of Science&lt;/b&gt;&lt;/div&gt;&lt;div&gt;ENGINEERING OR&lt;/div&gt;&lt;div&gt;BUSINESS IT&lt;/div&gt;" vertex="1">
           <mxGeometry height="94" width="145" x="570" y="180" as="geometry" />
         </mxCell>
         <mxCell id="2x71qDnFbdDbp_tj9GGc-5" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FFFFFF);fillStyle=solid;fontColor=light-dark(#000000,#000000);strokeColor=light-dark(#000000,#000000);" value="&lt;div&gt;Six Sigma White&lt;/div&gt;&lt;div&gt;(QUALITY)&lt;/div&gt;" vertex="1">
