@@ -123,15 +123,15 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="knvVXV4intYB0iKeHPFB" name="Physics">
-    <mxGraphModel dx="934" dy="588" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="light-dark(#FFFFFF,#CCE5FF)" math="0" shadow="0">
+  <diagram id="knvVXV4intYB0iKeHPFB" name="Quality Management">
+    <mxGraphModel dx="1698" dy="1069" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="light-dark(#FFFFFF,#CCE5FF)" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="_aCS-FZ9Fni6zQmmg6JS" name="Chemistry">
+  <diagram id="_aCS-FZ9Fni6zQmmg6JS" name="Process Management">
     <mxGraphModel dx="934" dy="588" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="light-dark(#FFFFFF,#E1D5E7)" math="0" shadow="0">
       <root>
         <mxCell id="0" />
