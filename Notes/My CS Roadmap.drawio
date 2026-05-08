@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:145.0) Gecko/20100101 Firefox/145.0" pages="4">
   <diagram id="L8S0gf-0DQ9822DG12Xw" name="Career">
-    <mxGraphModel dx="934" dy="588" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="light-dark(#FFFFFF,#D5E8D4)" math="0" shadow="0">
+    <mxGraphModel dx="1047" dy="569" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="light-dark(#FFFFFF,#D5E8D4)" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -66,6 +66,15 @@
         </mxCell>
         <mxCell id="m7CXLc4TJjBIYe1-BIKw-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=light-dark(#000000,#000000);" value="DE" vertex="1">
           <mxGeometry height="30" width="60" x="277.5" y="550" as="geometry" />
+        </mxCell>
+        <mxCell id="ytgmbb5_4sAZ9_0wSuN8-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FFFFFF);fillStyle=solid;fontColor=light-dark(#000000,#000000);strokeColor=light-dark(#000000,#000000);" value="&lt;b&gt;Programming&lt;/b&gt; (Python, Git, SQL, API)" vertex="1">
+          <mxGeometry height="80" width="120" x="52" y="184" as="geometry" />
+        </mxCell>
+        <mxCell id="ytgmbb5_4sAZ9_0wSuN8-2" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=light-dark(#000000,#000000);entryX=0;entryY=0.5;entryDx=0;entryDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="9" y="223.63" as="sourcePoint" />
+            <mxPoint x="52" y="223.63" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
