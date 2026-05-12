@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:145.0) Gecko/20100101 Firefox/145.0" pages="4">
   <diagram id="L8S0gf-0DQ9822DG12Xw" name="Career">
-    <mxGraphModel dx="934" dy="589" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="light-dark(#FFFFFF,#D5E8D4)" math="0" shadow="0">
+    <mxGraphModel dx="983" dy="675" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="light-dark(#FFFFFF,#D5E8D4)" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -108,6 +108,36 @@
         </mxCell>
         <mxCell id="hX8eGWxJM_1J7RtVCCmn-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FFFFFF);fillStyle=solid;fontColor=light-dark(#000000,#000000);strokeColor=light-dark(#000000,#000000);" value="BPMN" vertex="1">
           <mxGeometry height="80" width="120" x="51" y="285" as="geometry" />
+        </mxCell>
+        <mxCell id="BJU28wx9XPhU35-HiJrT-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FFCCE6);fillStyle=solid;fontColor=light-dark(#000000,#000000);strokeColor=light-dark(#000000,#000000);fontStyle=1" value="Social Science" vertex="1">
+          <mxGeometry height="80" width="120" x="305" y="861" as="geometry" />
+        </mxCell>
+        <mxCell id="BJU28wx9XPhU35-HiJrT-2" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF, #feffff);fillStyle=solid;fontColor=light-dark(#000000,#000000);strokeColor=light-dark(#000000,#000000);" value="Sozialismus" vertex="1">
+          <mxGeometry height="80" width="120" x="152" y="783" as="geometry" />
+        </mxCell>
+        <mxCell id="BJU28wx9XPhU35-HiJrT-3" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF, #feffff);fillStyle=solid;fontColor=light-dark(#000000,#000000);strokeColor=light-dark(#000000,#000000);" value="Faschismus" vertex="1">
+          <mxGeometry height="80" width="120" x="140" y="892" as="geometry" />
+        </mxCell>
+        <mxCell id="BJU28wx9XPhU35-HiJrT-4" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF, #feffff);fillStyle=solid;fontColor=light-dark(#000000,#000000);strokeColor=light-dark(#000000,#000000);" value="Nationalsozialismus" vertex="1">
+          <mxGeometry height="80" width="120" x="191" y="985" as="geometry" />
+        </mxCell>
+        <mxCell id="BJU28wx9XPhU35-HiJrT-5" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF, #feffff);fillStyle=solid;fontColor=light-dark(#000000,#000000);strokeColor=light-dark(#000000,#000000);" value="Kommunismus" vertex="1">
+          <mxGeometry height="80" width="120" x="34" y="979" as="geometry" />
+        </mxCell>
+        <mxCell id="BJU28wx9XPhU35-HiJrT-6" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF, #feffff);fillStyle=solid;fontColor=light-dark(#000000,#000000);strokeColor=light-dark(#000000,#000000);" value="Demokratie" vertex="1">
+          <mxGeometry height="80" width="120" x="349" y="962" as="geometry" />
+        </mxCell>
+        <mxCell id="BJU28wx9XPhU35-HiJrT-7" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF, #feffff);fillStyle=solid;fontColor=light-dark(#000000,#000000);strokeColor=light-dark(#000000,#000000);" value="Liberalismus" vertex="1">
+          <mxGeometry height="80" width="120" x="460" y="867" as="geometry" />
+        </mxCell>
+        <mxCell id="BJU28wx9XPhU35-HiJrT-8" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF, #feffff);fillStyle=solid;fontColor=light-dark(#000000,#000000);strokeColor=light-dark(#000000,#000000);" value="Kapitalismus" vertex="1">
+          <mxGeometry height="80" width="120" x="502" y="974" as="geometry" />
+        </mxCell>
+        <mxCell id="BJU28wx9XPhU35-HiJrT-9" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF, #feffff);fillStyle=solid;fontColor=light-dark(#000000,#000000);strokeColor=light-dark(#000000,#000000);" value="Kapitalismus" vertex="1">
+          <mxGeometry height="80" width="120" x="612" y="877" as="geometry" />
+        </mxCell>
+        <mxCell id="BJU28wx9XPhU35-HiJrT-10" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF, #feffff);fillStyle=solid;fontColor=light-dark(#000000,#000000);strokeColor=light-dark(#000000,#000000);" value="Authoritarismus" vertex="1">
+          <mxGeometry height="80" width="120" x="15" y="845" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
