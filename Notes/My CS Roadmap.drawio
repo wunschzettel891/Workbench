@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:145.0) Gecko/20100101 Firefox/145.0" pages="4">
   <diagram id="L8S0gf-0DQ9822DG12Xw" name="Trajectory">
-    <mxGraphModel dx="1557" dy="1068" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="light-dark(#FFFFFF,#D5E8D4)" math="0" shadow="0">
+    <mxGraphModel dx="849" dy="583" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="light-dark(#FFFFFF,#D5E8D4)" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -80,10 +80,10 @@
           <mxGeometry height="80" width="120" x="1239" y="249" as="geometry" />
         </mxCell>
         <mxCell id="ytgmbb5_4sAZ9_0wSuN8-7" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF, #feffff);fillStyle=solid;fontColor=light-dark(#000000,#000000);strokeColor=light-dark(#000000,#000000);" value="Japanese" vertex="1">
-          <mxGeometry height="80" width="120" x="1272" y="120" as="geometry" />
+          <mxGeometry height="80" width="120" x="1279" y="130" as="geometry" />
         </mxCell>
         <mxCell id="ytgmbb5_4sAZ9_0wSuN8-8" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF, #feffff);fillStyle=solid;fontColor=light-dark(#000000,#000000);strokeColor=light-dark(#000000,#000000);" value="Korean" vertex="1">
-          <mxGeometry height="80" width="120" x="990" y="181.5" as="geometry" />
+          <mxGeometry height="80" width="120" x="1377" y="215" as="geometry" />
         </mxCell>
         <mxCell id="ytgmbb5_4sAZ9_0wSuN8-9" edge="1" parent="1" source="ytgmbb5_4sAZ9_0wSuN8-3" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=light-dark(#000000,#000000);entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="ytgmbb5_4sAZ9_0wSuN8-5" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
@@ -97,8 +97,8 @@
             <mxPoint x="1211" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ytgmbb5_4sAZ9_0wSuN8-11" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF, #feffff);fillStyle=solid;fontColor=light-dark(#000000,#000000);strokeColor=light-dark(#000000,#000000);" value="Malay/Thai/Chinese" vertex="1">
-          <mxGeometry height="80" width="120" x="1152" y="50" as="geometry" />
+        <mxCell id="ytgmbb5_4sAZ9_0wSuN8-11" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF, #feffff);fillStyle=solid;fontColor=light-dark(#000000,#000000);strokeColor=light-dark(#000000,#000000);" value="Chinese" vertex="1">
+          <mxGeometry height="80" width="120" x="1182" y="50" as="geometry" />
         </mxCell>
         <mxCell id="hX8eGWxJM_1J7RtVCCmn-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FFFFFF);fillStyle=solid;fontColor=light-dark(#000000,#000000);strokeColor=light-dark(#000000,#000000);" value="BPMN / Process" vertex="1">
           <mxGeometry height="80" width="120" x="53.5" y="302" as="geometry" />
@@ -153,6 +153,12 @@
         </mxCell>
         <mxCell id="r46VeBGGZ9cBGX1lh67L-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=light-dark(#000000,#000000);strokeWidth=3;" value="" vertex="1">
           <mxGeometry height="227" width="500" x="29" y="288" as="geometry" />
+        </mxCell>
+        <mxCell id="r46VeBGGZ9cBGX1lh67L-2" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF, #feffff);fillStyle=solid;fontColor=light-dark(#000000,#000000);strokeColor=light-dark(#000000,#000000);" value="French" vertex="1">
+          <mxGeometry height="80" width="120" x="963" y="184" as="geometry" />
+        </mxCell>
+        <mxCell id="r46VeBGGZ9cBGX1lh67L-3" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF, #feffff);fillStyle=solid;fontColor=light-dark(#000000,#000000);strokeColor=light-dark(#000000,#000000);" value="Portugisisch" vertex="1">
+          <mxGeometry height="80" width="120" x="952" y="288" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
