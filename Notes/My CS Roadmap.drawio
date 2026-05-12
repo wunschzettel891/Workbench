@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:145.0) Gecko/20100101 Firefox/145.0" pages="4">
   <diagram id="L8S0gf-0DQ9822DG12Xw" name="Career">
-    <mxGraphModel dx="983" dy="620" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="light-dark(#FFFFFF,#D5E8D4)" math="0" shadow="0">
+    <mxGraphModel dx="934" dy="589" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="light-dark(#FFFFFF,#D5E8D4)" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -13,8 +13,8 @@
         <mxCell id="2x71qDnFbdDbp_tj9GGc-3" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FFFF00);fillStyle=solid;fontColor=light-dark(#000000,#000000);strokeColor=light-dark(#000000,#000000);" value="&lt;div&gt;&lt;b&gt;Bachelor of Arts&lt;/b&gt;&lt;/div&gt;&lt;div&gt;(BUSINESS)&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="120" x="429" y="62" as="geometry" />
         </mxCell>
-        <mxCell id="2x71qDnFbdDbp_tj9GGc-4" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FFFFFF);fillStyle=solid;fontColor=light-dark(#000000,#000000);strokeColor=light-dark(#000000,#000000);" value="&lt;div&gt;&lt;b&gt;Master of Science&lt;/b&gt;&lt;/div&gt;Digital Business Management" vertex="1">
-          <mxGeometry height="94" width="145" x="595" y="55" as="geometry" />
+        <mxCell id="2x71qDnFbdDbp_tj9GGc-4" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FFFFFF);fillStyle=solid;fontColor=light-dark(#000000,#000000);strokeColor=light-dark(#000000,#000000);" value="&lt;div&gt;&lt;b&gt;Master of Science&lt;/b&gt;&lt;/div&gt;Digital Business Management / Wirtschaftsingenierwesen / Wirtschaftsinformatik" vertex="1">
+          <mxGeometry height="119" width="217" x="593" y="42.5" as="geometry" />
         </mxCell>
         <mxCell id="2x71qDnFbdDbp_tj9GGc-5" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FFFFFF);fillStyle=solid;fontColor=light-dark(#000000,#000000);strokeColor=light-dark(#000000,#000000);" value="&lt;div&gt;Six Sigma White&lt;/div&gt;&lt;div&gt;(QUALITY)&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="120" x="55" y="312" as="geometry" />
