@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:145.0) Gecko/20100101 Firefox/145.0" pages="4">
   <diagram id="L8S0gf-0DQ9822DG12Xw" name="Trajectory">
-    <mxGraphModel dx="2204" dy="1024" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="light-dark(#FFFFFF,#D5E8D4)" math="0" shadow="0">
+    <mxGraphModel dx="2406" dy="1324" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="light-dark(#FFFFFF,#D5E8D4)" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -49,8 +49,14 @@
             <mxPoint x="267.5" y="465" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="bqHsgSfzDRWIlmIUpon7-7" edge="1" parent="1" source="m7CXLc4TJjBIYe1-BIKw-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="m7CXLc4TJjBIYe1-BIKw-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="m7CXLc4TJjBIYe1-BIKw-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;&lt;b&gt;Commercial Real Estate Professional&lt;/b&gt;&lt;/div&gt;&lt;div&gt;SIEMENS&lt;/div&gt;" vertex="1">
           <mxGeometry height="75" width="147" x="38" y="566" as="geometry" />
+        </mxCell>
+        <mxCell id="bqHsgSfzDRWIlmIUpon7-5" edge="1" parent="1" source="m7CXLc4TJjBIYe1-BIKw-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="m7CXLc4TJjBIYe1-BIKw-1" value="">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="m7CXLc4TJjBIYe1-BIKw-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;&lt;b&gt;Corporate Real Estate Manager&lt;/b&gt;&lt;/div&gt;&lt;div&gt;KOERBER&lt;/div&gt;" vertex="1">
           <mxGeometry height="75" width="147" x="230.5" y="566" as="geometry" />
@@ -162,6 +168,21 @@
         </mxCell>
         <mxCell id="r46VeBGGZ9cBGX1lh67L-4" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF, #feffff);fillStyle=solid;fontColor=light-dark(#000000,#000000);strokeColor=light-dark(#000000,#000000);" value="Italienisch" vertex="1">
           <mxGeometry height="80" width="120" x="1127" y="291" as="geometry" />
+        </mxCell>
+        <mxCell id="bqHsgSfzDRWIlmIUpon7-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FFFFFF);fontColor=light-dark(#000000,#000000);" value="?" vertex="1">
+          <mxGeometry height="75" width="147" x="425" y="566" as="geometry" />
+        </mxCell>
+        <mxCell id="bqHsgSfzDRWIlmIUpon7-2" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=light-dark(#000000,#000000);entryX=0;entryY=0.5;entryDx=0;entryDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="218" y="605" as="sourcePoint" />
+            <mxPoint x="264" y="605" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bqHsgSfzDRWIlmIUpon7-6" edge="1" parent="1" source="m7CXLc4TJjBIYe1-BIKw-2" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=light-dark(#000000,#000000);entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="bqHsgSfzDRWIlmIUpon7-1" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="374" y="671" as="sourcePoint" />
+            <mxPoint x="420" y="671" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
